@@ -33,7 +33,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src=".github/workflows/snake.yml" />
+  <img src="[.github/workflows/snake.yml](https://github.com/shaaran-r/shaaran-r/blob/main/.github/workflows/snake.yml)" />
 </p>
 
 ---

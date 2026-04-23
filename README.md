@@ -33,7 +33,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/shaaran-r/shaaran-r/blob/output/github-contribution-grid-snake.svg" />
+  <img src=".github/workflows/snake.yml" />
 </p>
 
 ---
